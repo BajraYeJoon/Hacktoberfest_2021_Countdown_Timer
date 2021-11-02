@@ -1,6 +1,6 @@
 # Hacktoberfest_2022_Countdown_Timer⏳⏲
 
-![](https://github.com/BajraYeJoon/Hacktoberfest_2021_Countdown_Timer/blob/main/images/giphy.jpg)
+![](https://github.com/BajraYeJoon/Hacktoberfest_2021_Countdown_Timer/blob/main/images/giphy.JPG)
 
 A timer showing the remaining time for the hacktoberfest 2022 to be organized.
 
